@@ -2,4 +2,6 @@ This is Alice, being developed while no versions are out
 
 Now on branch release-1
 
-Some chanegs for release 1.1
+Some changes for release 1.1
+
+Changes for r1.1.1, made in a client that has this repo as a git module.
