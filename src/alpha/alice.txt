@@ -4,3 +4,4 @@ Now some work on master, even though 1.0 is already out
 
 Now we're in the release-2 branch
 
+Changes for 2.1.
