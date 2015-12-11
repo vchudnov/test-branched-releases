@@ -1,0 +1,1 @@
+This is a new file for the upcoming 2.0 release. Right now we're in the dev branch.
