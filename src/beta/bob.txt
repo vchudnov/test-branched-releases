@@ -1,2 +1,4 @@
 This Bob, developed while no versions are out.
 Now on branch release-1
+
+Some chanegs for release 1.1
